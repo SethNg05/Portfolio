@@ -1,2 +1,2 @@
 # Portfolio
-My first steps into cybersecurity: Portfolio including home lab, web security labs, scripts &amp; TryHackMe Writeups
+hello! introducing you to my progress on learning more about cybersecurity
